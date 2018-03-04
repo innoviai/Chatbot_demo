@@ -12,7 +12,9 @@ Try telling the bot, "Hello", "Who are you?", "How is the weather in Tokyo?", et
 
 ![image01](https://blog.dialogflow.com/images/dialogflow-logo.png)
 
-![image02](https://camo.githubusercontent.com/82bc0349e969a3e53f7ebbf6b55cfd6bf69bf642/68747470733a2f2f692e696d6775722e636f6d2f713546595739382e706e67)
+![image02](https://github.com/innoviai/Chatbot_demo/blob/master/Webp.net-gifmaker.gif)
+
+![image03](https://camo.githubusercontent.com/82bc0349e969a3e53f7ebbf6b55cfd6bf69bf642/68747470733a2f2f692e696d6775722e636f6d2f713546595739382e706e67)
 
 #### e.g Asiabot Dr.care<br>
  ![image03](http://www.drcare.ai/images/news5.jpg)
